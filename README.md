@@ -1,5 +1,21 @@
-## Hi there 👋
+# Hi, I'm Haris Nawaz 
 
+CSE (AI) Student 🎓  
+Aspiring Data Scientist & AI Enthusiast 
+Building AI Projects using Python  
+
+## Skills
+- Python  
+- Artificial Intelligence  
+- Data Science  
+- API Integration  
+- Automation  
+
+## Projects
+- AI Voice Assistant (Nexus)  
+
+## 📫 Connect with me
+- LinkedIn: (add your link later)
 <!--
 **hariszzai/hariszzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
