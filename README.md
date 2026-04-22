@@ -15,7 +15,7 @@ Building AI Projects using Python
 - AI Voice Assistant (Nexus)  
 
 ## 📫 Connect with me
-- LinkedIn: (add your link later)
+- LinkedIn: www.linkedin.com/in/haris-nawaz-a490a4292
 <!--
 **hariszzai/hariszzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
